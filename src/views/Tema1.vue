@@ -48,7 +48,7 @@
       .col-11
         .row.align-items-center.justify-content-between
           .col-4
-            img(src='@/assets/curso/tema1-imagen3.png')
+            img(src='@/assets/curso/tema1-imagen3.svg')
           .col-7
             ul.lista-ul--color.lista-ul--separador
               li
@@ -170,6 +170,9 @@
           br
           br
           | Es el proceso por el cual los instructores-tutores obtienen y analizan las evidencias del proceso de aprendizaje y desarrollo de las competencias del aprendiz, con base en el programa de formación y las normas de competencia laboral que le cobijan, con la finalidad de emitir el juicio si ha logrado el desarrollo de la competencia.
+          br
+          br
+          | La evaluación se centra en el desempeño del aprendiz soportado en evidencias que incluyen el conocimiento, el ser y el hacer, frente a los resultados de aprendizaje del programa de formación y las normas de competencia que le corresponden.
           br
           br
           | La finalidad de la evaluación está dirigida al mejoramiento del desarrollo de las competencias del aprendiz.
