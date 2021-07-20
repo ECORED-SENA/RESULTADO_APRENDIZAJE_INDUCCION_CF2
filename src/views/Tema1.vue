@@ -139,7 +139,10 @@
                 img(src='@/assets/curso/tema1-imagen9.svg', style='max-width: 120px')
           .row(titulo="Proyecto formativo")
             .col-md-6.mb-4.mb-md-0.d-flex
-              p Acciones integradoras e integradas entre sí, realizadas por los aprendices con la orientación del instructor a lo largo del proceso formativo. Son objeto directo de aprendizaje; esto indica que existe una relación directa entre lo que se debe hacer en el centro formativo y lo que más tarde se hará en el mundo laboral. 
+              p El proyecto es un instrumento de gestión que prevé y organiza acciones de planeación, técnico - pedagógicas y de administración, con el fin de resolver una necesidad de la sociedad, enmarcada en los objetivos y políticas de la Entidad. 
+                br
+                br
+                | Es el instrumento que concreta la estructuración de la respuesta para atender las necesidades de la población.
 
             .col-md-4.d-flex.offset-2
               figure
