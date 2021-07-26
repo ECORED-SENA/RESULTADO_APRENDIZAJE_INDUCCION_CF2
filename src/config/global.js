@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Formación virtual en el SENA',
     descripcionCurso:
       'El SENA cuenta con formación profesional virtual la cual tiene características especiales para su desarrollo, así mismo, conozca las diferentes oportunidades de formación e inserción laboral que ofrecemos. ',
-    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {

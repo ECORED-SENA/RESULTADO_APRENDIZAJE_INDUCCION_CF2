@@ -8,7 +8,7 @@
         span 1
       h1 La formación virtual en el SENA
 
-    .bloque-texto-a.color-secundario.p-4.mb-5 
+    .bloque-texto-a.color-secundario.p-4.mb-5(data-aos="slide-left")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-4
@@ -19,10 +19,10 @@
         .col-lg-4.mb-4.mb-lg-0
 
 
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo(data-aos="fade" data-aos-duration="900")
       h2 1.1  Definición
     
-    .row.justify-content-between.align-items-center
+    .row.justify-content-between.align-items-center(data-aos="fade" data-aos-duration="900")
       .col-4.d-flex
         img(src='@/assets/curso/tema1-imagen2.png')
       .col-7.d-flex
@@ -33,10 +33,10 @@
     
     Separador
     
-    #t_1_2.titulo-segundo
+    #t_1_2.titulo-segundo(data-aos="fade" data-aos-duration="900")
       h2 1.2  Características
 
-    p.mb-5 La educación virtual hace referencia a los procesos de enseñanza-aprendizaje-evaluación que se llevan a cabo a partir de la interacción de sus actores en un ambiente mediado por las tecnologías de la información y comunicación -TIC.  
+    p.mb-5(data-aos="fade" data-aos-duration="900") La educación virtual hace referencia a los procesos de enseñanza-aprendizaje-evaluación que se llevan a cabo a partir de la interacción de sus actores en un ambiente mediado por las tecnologías de la información y comunicación -TIC.  
       br
       br
       | En este sentido, el SENA desde su oferta de formación virtual posibilita a los aprendices la interacción en un ambiente de aprendizaje en donde contarán con el acompañamiento y orientación de sus instructores, así como también, la opción de ajustar sus horarios de estudio según convenga a sus necesidades y acorde con el cronograma de trabajo propuesto. 
@@ -47,9 +47,9 @@
     .row.justify-content-center
       .col-11
         .row.align-items-center.justify-content-between
-          .col-4
+          .col-4(data-aos="slide-right" data-aos-duration="900")
             img(src='@/assets/curso/tema1-imagen3.svg')
-          .col-7
+          .col-7(data-aos="slide-left" data-aos-duration="900")
             ul.lista-ul--color.lista-ul--separador
               li
                 i.fas.fa-feather
@@ -66,10 +66,10 @@
 
     Separador
 
-    #t_1_3.titulo-segundo
+    #t_1_3.titulo-segundo(data-aos="fade" data-aos-duration="900")
       h2 1.3  Ventajas
 
-    p.mb-5 De acuerdo con el Ministerio de Educación Nacional, la formación virtual tiene múltiples fortalezas entre ellas, que se ajusta a las necesidades y tiempos de los aprendices, permitiéndoles realizar un proceso educativo en cualquier momento y lugar.  En este sentido, facilita el acceso a la educación a las personas que se encuentran en zonas de difícil acceso, trabajan y requieren una mayor flexibilidad de horarios.
+    p.mb-5(data-aos="fade" data-aos-duration="900") De acuerdo con el Ministerio de Educación Nacional, la formación virtual tiene múltiples fortalezas entre ellas, que se ajusta a las necesidades y tiempos de los aprendices, permitiéndoles realizar un proceso educativo en cualquier momento y lugar.  En este sentido, facilita el acceso a la educación a las personas que se encuentran en zonas de difícil acceso, trabajan y requieren una mayor flexibilidad de horarios.
       br
       br
       strong En la educación virtual:
@@ -77,7 +77,7 @@
     
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar(data-aos="zoom-in" data-aos-duration="900")
           img(src='@/assets/curso/tema1-imagen4.svg' alt='AvatarTop')
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -87,7 +87,7 @@
               p Permite llegar a las regiones más apartadas, traspasar fronteras, apoyar a las personas que tienen menos recursos económicos con educación de alta calidad. 
 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar(data-aos="zoom-in" data-aos-duration="900")
           img(src='@/assets/curso/tema1-imagen5.svg' alt='AvatarTop')
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -97,7 +97,7 @@
               p Favorece el desarrollo de competencias en el uso de la tecnología, el aprendizaje autónomo, el trabajo en equipo y la posibilidad de conocer experiencias e intercambiar con compañeros de diferentes regiones, generando habilidades adicionales para ingresar al mercado laboral con mayor facilidad.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
+        .tarjeta-avatar(data-aos="zoom-in" data-aos-duration="900")
           img(src='@/assets/curso/tema1-imagen6.svg' alt='AvatarTop')
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -108,10 +108,10 @@
 
     Separador
 
-    #t_1_4.titulo-segundo
+    #t_1_4.titulo-segundo(data-aos="fade" data-aos-duration="900")
       h2 1.4  Recursos para la formación
 
-    p.mb-5 Para participar en la formación titulada y a distancia con experticia y pertinencia, es necesario reconocer conceptos institucionales propios de la modalidad. En este caso, socializamos los siguientes: 
+    p.mb-5(data-aos="fade" data-aos-duration="900") Para participar en la formación titulada y a distancia con experticia y pertinencia, es necesario reconocer conceptos institucionales propios de la modalidad. En este caso, socializamos los siguientes: 
 
     .row
       .col-10.offset-1
@@ -164,11 +164,11 @@
 
     Separador
 
-    #t_1_5.titulo-segundo
+    #t_1_5.titulo-segundo(data-aos="fade" data-aos-duration="900")
       h2 1.5  Evaluación
     
     .row
-      .col-md-7
+      .col-md-7(data-aos="slide-right" data-aos-duration="900")
         p.mb-3 La evaluación del aprendizaje en la institución se realiza a través del enfoque por competencias.
           br
           br
@@ -187,16 +187,16 @@
             br
             strong.ps-5 D 
             | = DEFICIENTE.
-      .col-md-5
+      .col-md-5(data-aos="slide-left" data-aos-duration="900")
         figure
           img(src='@/assets/curso/tema1-imagen13.png')
     
     Separador
 
-    #t_1_6.titulo-segundo
+    #t_1_6.titulo-segundo(data-aos="fade" data-aos-duration="900")
       h2 1.6  Oportunidades de formación e inserción laboral
 
-    p.mb-5 El egresado SENA es por definición una persona con una formación integral, es decir, que además de ser un gran profesional, formado con los más altos estándares del mercado mundial, también es una persona formada en valores y en habilidades blandas.
+    p.mb-5(data-aos="fade" data-aos-duration="900") El egresado SENA es por definición una persona con una formación integral, es decir, que además de ser un gran profesional, formado con los más altos estándares del mercado mundial, también es una persona formada en valores y en habilidades blandas.
       br
       br
       | El SENA tiene el espacio para que el egresado siga vinculado con la Entidad de una manera activa a través de:
