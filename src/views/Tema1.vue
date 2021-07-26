@@ -29,7 +29,7 @@
         p.mb-0 La formación profesional Integral se centra en generar competencias que le permitan al egresado integrar tecnologías, plantear y solucionar creativamente problemas para lograr eficacia en el saber hacer, además brindarle movilidad en la estructura ocupacional.
           br
           br
-          | En este orden de ideas, las competencias se desarrollan de manera permanente en el proceso formativo, su punto de partida lo constituye el proyecto de vida personal del Aprendiz, éstas se contextualizan en el marco de un Programa de Formación y se evidencian en los entornos sociales y productivos en el cual el Aprendiz interviene mediante sus desempeños.
+          | En este orden de ideas, las competencias se desarrollan de manera permanente en el proceso formativo, su punto de partida lo constituye el proyecto de vida personal del Aprendiz, estas se contextualizan en el marco de un Programa de Formación y se evidencian en los entornos sociales y productivos en el cual el Aprendiz interviene mediante sus desempeños.
     
     Separador
     
